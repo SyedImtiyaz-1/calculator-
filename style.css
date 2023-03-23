@@ -18,7 +18,7 @@ body {
 
 .row input{
     margin: 0;
-    padding: 6px 28px;
+    padding: 6px 2px;
     border: 2px solid black;
     border-radius: 4px;
 }
