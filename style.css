@@ -7,6 +7,7 @@ body {
 .button {
   padding: 20px;
   margin: 0 3px;
+  width: 60px;
   border: 2px solid black;
   border-radius: 9px;
   cursor: pointer;
@@ -19,6 +20,7 @@ body {
 .row input{
     margin: 0;
     padding: 6px 2px;
+    width: 265px;
     border: 2px solid black;
     border-radius: 4px;
 }
