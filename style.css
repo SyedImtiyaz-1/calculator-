@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
 html,
 body {
   height: 100%;
@@ -14,6 +16,14 @@ body {
   font-weight: bold;
 }
 
+
+.design{
+  padding: 20px;
+  background-color:rgb(32, 33, 33);
+  border-radius: 10px;
+}
+
+
 .row {
   margin: 8px 0;
 }
@@ -28,11 +38,12 @@ body {
 
 .text-center {
   text-align: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 22px;
+  font-family: 'Delicious Handrawn', cursive;
+  color: rgb(255, 255, 255);
 }
 
-/* .bg-red {
-  /* background-color: red; */
+
 
 
 .mx-auto {
