@@ -1,4 +1,5 @@
 <h3>Calculator Using HTML, CSS, Javascript</h3>
+-----------------------------------------------
 <h4>Why this as a project ?</h4>
       <p>As a Student, I want to upgrade my basic skills first because <strong>basic mastery is the key</strong> to achieve <strong>Success.</strong> 
 <h4>How I design or created calculator ?</h4>
